@@ -32,7 +32,7 @@
     "fastify": "^5.12.8",
     "pg": "^8.23.1",
     "pino-pretty": "^13.2.0",
-    "sanitize-html": "^2.18.1"
+    "sanitize-html": "^2.18.2"
   },
   "devDependencies": {
     "@fastify/type-provider-json-schema-to-ts": "^5.0.1",
